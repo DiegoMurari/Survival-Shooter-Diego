@@ -1,22 +1,86 @@
-# Survival-shooter-unity
-Survival shooter tutorial from https://unity3d.com/ru/learn/tutorials/projects/survival-shooter-tutorial
+<img width="71" height="68" alt="image" src="https://github.com/user-attachments/assets/3583df45-ea06-45fc-a3b6-45483f0968cd" /># 🎮 Survival Shooter
 
-Unity version 2017.1.1f1
+<p align="center">
+  <img src="screenshot-menu.png" width="800">
+</p>
 
-## Training Day Phases
+<p align="center">
+  <b>Projeto desenvolvido em Unity 2017.1.1f1</b><br>
+  Trabalho acadêmico baseado no tutorial oficial <i>Survival Shooter</i> da Unity.
+</p>
 
-- [x] 01. Environment setup
-- [x] 02. Player Character
-- [x] 03. Camera setup
-- [x] 04. Creating Enemy #1
-- [x] 05. Health HUD
-- [x] 06. Player Health
-- [x] 07. Harming Enemies
-- [x] 08. Scoring points
-- [x] 09. Spawning Enemies
-- [x] 10. Game Over
+---
 
-## Upgrading Audio
+## 📖 Sobre o Projeto
 
-- [x] 01. Mixers and Effects
-- [x] 02. Snapshots and Exposed Parameters
+Survival Shooter é um jogo de sobrevivência onde o jogador deve enfrentar ondas de inimigos, acumular pontos e sobreviver o maior tempo possível.
+
+Durante o desenvolvimento foram implementados sistemas fundamentais de jogos, incluindo gerenciamento de vida, pontuação, combate, interface gráfica e controle de áudio.
+
+---
+
+## ✨ Funcionalidades
+
+* ✅ Menu Inicial
+* ✅ Sistema de Pontuação
+* ✅ Sistema de Vida
+* ✅ Sistema de Pause
+* ✅ Controle de Áudio
+* ✅ Spawn de Inimigos
+* ✅ Sistema de Combate
+* ✅ Game Over
+
+---
+
+## 🎯 Controles
+
+| Ação         | Tecla           |
+| ------------ | --------------- |
+| Movimentação | WASD            |
+| Mirar        | Mouse           |
+| Atirar       | Clique Esquerdo |
+| Pausar       | ESC             |
+
+---
+
+## 🖼️ Capturas de Tela
+
+### Menu Inicial
+
+<img width="763" height="431" alt="image" src="https://github.com/user-attachments/assets/d981e94c-ec40-469b-bcbc-5f5058c99968" />
+
+### Gameplay
+
+<img width="956" height="406" alt="image" src="https://github.com/user-attachments/assets/e51cf4d2-022a-4985-99f0-28f8a55a8698" />
+
+---
+
+## 🎥 Vídeo de Demonstração
+
+Assista à gameplay completa do projeto:
+
+👉 https://drive.google.com/file/d/1P4uWrNsV50j1jLhVpdCiuE5rvmjwczar/view?usp=drive_link
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* Unity 2017.1.1f1
+* C#
+* Unity UI
+* Git
+* GitHub
+
+---
+
+## 👨‍💻 Autor
+
+**Diego Guimarães**
+
+---
+
+## 📚 Referências
+
+Projeto baseado no tutorial oficial da Unity:
+
+https://unity3d.com/learn/tutorials/projects/survival-shooter-tutorial
