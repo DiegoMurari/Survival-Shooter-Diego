@@ -53,7 +53,7 @@ Durante o desenvolvimento foram implementados sistemas fundamentais de jogos, in
 
 ---
 
-🔧 Funcionalidades Desenvolvidas
+## 🔧 Funcionalidades Desenvolvidas
 1. Sistema de Cura (Health Pack)
 
 Foi desenvolvido um sistema de cura através da coleta de itens especiais espalhados pelo mapa. Ao entrar em contato com o item, o jogador recupera parte da sua vida, aumentando suas chances de sobrevivência durante as ondas de inimigos.
