@@ -115,6 +115,10 @@ Assista à gameplay completa do projeto:
 
 ## 📚 Referências
 
-Projeto baseado no tutorial oficial da Unity:
+Projeto baseado no tutorial oficial Survival Shooter da Unity.
 
-https://unity3d.com/learn/tutorials/projects/survival-shooter-tutorial
+Tutorial original:
+https://www.youtube.com/playlist?list=PLf6EupStaw3YLKEpCY1MxU62MgC3hdq7d
+
+Plataforma Unity Learn:
+https://learn.unity.com/
